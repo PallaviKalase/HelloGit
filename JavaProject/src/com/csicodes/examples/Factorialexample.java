@@ -17,6 +17,7 @@ public class Factorialexample
 	System.out.print("Enter the number :");
 	int n =sc.nextInt();
 	int fact=factorial(n);
+	System.out.println("----FACTORIAL Program----");
 	System.out.println("\n Factorial of number is "+fact);
 	}
 }
